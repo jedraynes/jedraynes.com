@@ -8,7 +8,7 @@ paginate = 12
 enableEmoji = true
 enableRobotsTXT = true
 # googleAnalytics = ""
-# disqusShortname = "yourdiscussshortname"
+disqusShortname = "jedraynes"
 
 [author]
   name = "Jed Raynes"
@@ -50,7 +50,7 @@ enableRobotsTXT = true
 
 [params]
   version = "0.2.X"
-  # Home page config
+  #custom_css = "/css/_custom.css"
 [params.home]
   rss = 10
   [params.home.profile]
