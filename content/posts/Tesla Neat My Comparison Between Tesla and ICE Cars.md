@@ -37,7 +37,8 @@ I'll admit, these might not be the most comparable vehicles (aside from the 330i
 
 Prior to diving into the data, let's see the metrics for each vehicle. For purposes of MPG, I'll take the average of the city and highway metrics unless the combined MPG is provided, which I will then use. I only pulled key power metrics - HP, MPG (city/highway/combined), and tank size. There are of course other metrics to analyze further, as external conditions (e.g., weather) or other car-specific elements (e.g., tires or aerodynamics) may play a role in fuel efficiency and range.
 
-![Cars Scorecard](/images/Tesla Neat/power_cars_scorecard.PNG)
+<div style="text-align:center"><img src="/images/power_cars_scorecard.PNG" /></div>
+
 
 
 ## Analysis
@@ -52,7 +53,7 @@ An important assumption I'll make is that the cost of gas is consistent across t
 
 I then multiplied the *MPG Combined* with the *Tank Size* to get the car's *Effective Range* in miles. Again, this range is dependent on a variety of conditions so this analysis pulls what would be listed on the car's sticker. I then used my LTD odometer reading of 7,862 miles and divided it by the *Effective Range* to calculate the *Total Fill-Ups* which represents how many times you'd fill up the car to reach the same odometer reading assuming the car achieves it's specified range. I then calculated the *"Odometer Cost"*, as I've dubbed it, which is the product of the *Total Fill-Ups*, *Average Cost per Gal*, and *Tank Size*. This field is the cost of achieving the same odometer reading (7,862 miles) given the car achieves its specified range, the tank size specific to the car, and the average LTM cost of gasoline in the state of TN. The final calculated field is the *Multiple* which is the *Odometer Cost* divided by $297, or the LTD charging cost per my other post [here](https://jedraynes.com/2020/tesla-model-3-sr-8-months-of-ownership/). The *Multiple* field is much easier to comprehend as you can view it as "it would cost me #.#x more to drive [car] vs the Model 3 SR+". The image below is the calculations as mentioned in the text above. It's clear that the fuel efficiency of the Prius (1.2x) and Rav4 Hybrid (1.6x) equate to multiples much closer to the Model 3 than the 330i (2.6x) or the Q3 (2.9x).
 
-![Cars Calculations](/images/Tesla Neat/power_cars_calculations.PNG)
+<div style="text-align:center"><img src="/images/power_cars_calculations.PNG" /></div>
 
 But...that's obvious right? It's what I expected in my hypothesis, it's how EVs are marketed, and it's what is expected from alternative energy industry. Taking a look at a simple linear regression of *Odometer Cost* versus *MPG Combined*, *Tank Size*, and *Effective Range*, you can see that these factors are moderately-to-strongly positively correlated. For these correlations, I removed the Model 3 as it's a clear outlier.
 
@@ -99,13 +100,13 @@ I'm far from fully informed regarding the renewable energy industry, but it's cl
 
 I used the data provided by the US DOE to source the emissions information for each vehicle in this analysis. Aggregating the original data produces the following table.
 
-![GHG Scorecard](/images/Tesla Neat/ghg_scorecard.PNG)
+<div style="text-align:center"><img src="/images/ghg_scorecard.PNG" /></div>
 
 The US DOE uses assumptions to determine the *Annual Petroleum Consumption*, mainly, that one year of consumption is equivalent to 15,000 miles driven. Given my power analysis above, and to stay apples-to-apples, I've scaled the consumption to reflect my odometer reading of 7,862 miles. For emissions, the US DOE provides both tailpipe and upstream emissions grams per mile for each vehicle, which I also sourced. I then calculated the amount of greenhouse gas emissions for each vehicle both disaggregated by tailpipe and upstream, and in total.
 
 The Model 3 had the **highest** *Upstream GHG* rate compared to the other vehicles at 120 g/mi. Keep in mind this is the rate for my zip code whereas the US average is 110 g/mi. Despite this, the Model 3 had the **lowest** *Total GHG* emissions as the tailpipe emissions are 0, given the car is fully electric. In fact, the next closest vehicle in the benchmark? The Toyota Prius with a multiple of 1.7x relative to the Tesla. The highest multiples were 4.0x and 3.4x for the Q3 and 2013 Rav4, respectively. The multiple factor is read in a similar way to that in the power analysis. In other words, read it as the [car] has #.#x more greenhouse gas emissions than the Model 3. You can see the calculations in the image below.
 
-![GHG Calculations](/images/Tesla Neat/ghg_calculations.PNG)
+<div style="text-align:center"><img src="/images/ghg_calculations.PNG" /></div>
 
 Looking at scatterplots between the *Odometer Cost*, from the power analysis, versus the *Adjusted Petroleum Consumption*, *Tailpipe GHGs*, *Upstream GHGs*, and *Total GHGs*, we can see a strong positive correlation in the four factors. To better understand this, my analysis, given my assumptions and benchmarks, displays the fact that vehicles with a smaller environmental footprint have a lower total cost to drive.
 
