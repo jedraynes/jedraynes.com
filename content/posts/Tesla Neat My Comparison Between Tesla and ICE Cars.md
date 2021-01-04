@@ -90,7 +90,7 @@ The US DOE provides further information to understand the differences between ta
 
 Additionally, to better understand the source of emissions, specifically for EVs but also useful for understanding what upstream means, see the image from the US DOE below.
 
-![EV Emissions]( https://www.fueleconomy.gov/feg/label/images/infographicEV.png)
+<div style="text-align:center"><img src="https://www.fueleconomy.gov/feg/label/images/infographicEV.png" /></div>
 
 The upstream emissions are largely location specific and depends on how your local area produces the energy used in your vehicle. The US DOE provides a tool that allows users to input their vehicle and zip code and see the local, US average, and average gasoline emissions for comparison.
 

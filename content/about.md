@@ -13,25 +13,17 @@ date = 2020-12-31
 
 <div style="text-align:center"><img src="/images/balcony.jpg" /></div>
 
-## About Me
-
+## About
 ---
 
-#### Pre-2019
+Welcome! I'm Jed. I'm originally from Brentwood, TN and recently graduated *magna cum laude* from [Xavier University](https://www.xavier.edu/) (Go Muskies!) in May 2019 majoring in Accounting and Finance and minoring in Information Systems. Since then, I've become a licensed CPA, survived nearly a year in [Audit at KPMG](https://audit.kpmg.us/), and currently work in [Deals Transaction Services Financial Due Diligence at PwC](https://www.pwc.com/us/en/services/deals/acquisitions/due-diligence.html) in Washington, DC. When I'm not crunching through client financial data, I volunteer with the [American Red Cross'](https://www.redcross.org/) Disaster Cycle Services and Blood Services and recently became a [Provisional EMT-B](https://www.nremt.org/rwd/public/document/emt) with the plan to volunteer further in my spare time.
 
-Welcome! I'm Jed.
+Outside of work and service, I'm taking a MOOC, binging a Netflix/Twitch/Disney+, or deep in the rabbit hole of a random Wikipedia article.
 
-I'm originally from Brentwood, TN but most recently lived in Cincinnati, OH after graduating *magna cum laude* from [Xavier University](https://www.xavier.edu/) (Go Muskies!) where I majored in Accounting and Finance and minored in Information Systems.
+This site is a collection of tangents I deem worthy of posting on the internet. Feel free to [read my posts](https://jedraynes.com/posts/), and [contact me](https://jedraynes.com/contact/), or stalk my [GitHub](https://github.com/jedraynes) or [LinkedIn](https://www.linkedin.com/in/jedraynes/) (no shame, I know you're going to anyway).
 
-#### Post-2019
+Below you can find a timeline of major events to see a brief history of me.
 
-Since graduation, I worked at [KPMG](https://home.kpmg/us/en/home.html) in Audit working with clients in aerospace/defense and retail. After almost a year at KPMG, I transitioned to my current role in Financial Due Diligence at [PwC](https://www.pwc.com/) working with clients from consumer to tech to government. When I'm not cranking through client financial data, I'm probably taking a MOOC, binging Netflix/Prime Video/Twitch/Disney+, or deep in the rabbit hole of some random article Wikipedia.
-
-## About the Site
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQIzyf5Vkq7dGDf45XNdQqKRLFIwMa9WEzCr62O2g2aeuMoxiIP96wUFaiIP285w7j_L53Pq_9QsGs1/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ---
-
-This site is a collection of tangents that I deem worthy of posting to the internet. It'll range from random analyses to quick thoughts. Poke around, [read](https://jedraynes.com/posts/) a little, and stalk my [GitHub](https://github.com/jedraynes?tab=repositories) and [LinkedIn](https://www.linkedin.com/in/jedraynes/) (no shame, I know you're going to anyway).
-
----
-
