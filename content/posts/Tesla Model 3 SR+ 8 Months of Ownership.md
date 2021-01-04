@@ -69,7 +69,7 @@ First, let's take a look at the non-charging costs. The section above itemizes t
 
 For those that want to see it all in one place, see the Tableau story below.
 
-<iframe src="https://public.tableau.com/views/TeslaModel3SR8MonthsofOwnership/Story1?:showVizHome=no&:embed=true" height="750" width="100%" allowfullscreen="allowfullscreen" frameborder="0" scrolling+"0"></iframe>
+<iframe src="https://public.tableau.com/views/TeslaModel3SR8MonthsofOwnership/Story1?:showVizHome=no&:embed=true" height="750" width="100%" allowfullscreen="allowfullscreen" frameborder="0" scrolling="0"></iframe>
 
 ## Conclusion
 

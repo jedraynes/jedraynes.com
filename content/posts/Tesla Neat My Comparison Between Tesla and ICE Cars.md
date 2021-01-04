@@ -72,7 +72,7 @@ During another trip, my family traveled to the Great Smoky Mountains National Pa
 
 There are other factors, such as the car itself. If you're not in the market for compact car, you wouldn't even consider the Model 3 as an option. Based on my own research, I was able to justify the factors I valued to land with the Model 3. For all the power-related visualizations, see the Tableau story below.
 
-<iframe src="https://public.tableau.com/views/TeslaNeat-Power/PowerStory?:showVizHome=no&:embed=true" height="750" width="100%" allowfullscreen="allowfullscreen" frameborder="0" scrolling+"0"></iframe>
+<iframe src="https://public.tableau.com/views/TeslaNeat-Power/PowerStory?:showVizHome=no&:embed=true" height="750" width="100%" allowfullscreen="allowfullscreen" frameborder="0" scrolling="0"></iframe>
 
 ### Emissions
 
@@ -112,7 +112,7 @@ Looking at scatterplots between the *Odometer Cost*, from the power analysis, ve
 
 See the all emission related visualizations in the Tableau story below.
 
-<iframe src="https://public.tableau.com/views/TeslaNeat-Emissions/GHGStory?:showVizHome=no&:embed=true" height="750" width="100%" allowfullscreen="allowfullscreen" frameborder="0" scrolling+"0"></iframe>
+<iframe src="https://public.tableau.com/views/TeslaNeat-Emissions/GHGStory?:showVizHome=no&:embed=true" height="750" width="100%" allowfullscreen="allowfullscreen" frameborder="0" scrolling="0"></iframe>
 
 ## Conclusion
 ---
