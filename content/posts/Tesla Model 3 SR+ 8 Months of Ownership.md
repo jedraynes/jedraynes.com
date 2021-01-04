@@ -11,7 +11,7 @@ weight: 10
 # series:
 # - Hugo 101
 aliases:
-- /posts/tesla-model-3-sr+-8-months-of-ownership/
+- /posts/tesla-model-3-sr+-8-months-of-ownership
 ---
 
 ![My Car](/images/tesla.JPG)

@@ -11,7 +11,7 @@ weight: 10
 # series:
 # - Hugo 101
 aliases:
-- /posts/tesla-neat-my-comparsion-between-tesla-and-ice-cars/
+- /posts/tesla-neat-my-comparsion-between-tesla-and-ice-cars
 ---
 
 ## Introduction
