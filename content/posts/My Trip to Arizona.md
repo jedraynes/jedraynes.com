@@ -48,7 +48,7 @@ Monday started with a somewhat early rise to head to Camelback Mountain. We foun
 
 ---
 
-Tuesday, as was planned, we both worked full days. I got caught up with work things, ate my leftovers from Sunday, and calmed my nerves for Wednesday (which you'll see why). We chose to "stay-in" for dinner which meant we ate at Twenty6 which is one of the hotel dining options, this time in the lobby-ish area. We shared a charcuterie board that was sub-par, I got a cider and a mule, and I chowed down on a NY strip to end the day.
+Tuesday, as was planned before the trip, we both worked full days. I got caught up with work things, ate my leftovers from Sunday, and calmed my nerves for Wednesday (which you'll see why). We chose to "stay-in" for dinner which meant we ate at Twenty6 which is one of the hotel dining options, this time in the lobby-ish area. We shared a charcuterie board that was sub-par, I got a cider and a mule, and I chowed down on a NY strip to end the day.
 
 <div style="text-align:center"><img src="/images/AZ_tuesday_dinner_fit_check.JPEG" /></div>
 
@@ -56,7 +56,7 @@ Tuesday, as was planned, we both worked full days. I got caught up with work thi
 
 ---
 
-Wednesday was a big day. Sarah has extended family in the area and we decided to meet up with them for dinner and to hangout after work. The day started like the day prior, full working days. Once 4:00 PM hit, we were in the car with her family chatting about what we've done and what we plan to do. Once at her family's house, we talked more prior to dinner. Here, I met Sarah's mom's cousin, his parents, his wife, their two kids, and the parents. To say I was nervous was an understatement. Dinner was at the country club were we got fried chicken, as it was the Wednesday special. It was delicious. The country club, her family's place, and her family were all wonderful. The night went well and we event got an amazing view of the sunset while at dinner. After dinner we said our goodbyes, got dropped off at the hotel, and crashed for the another working day.
+Wednesday was a big day. Sarah has extended family in the area and we decided to meet up with them for dinner and to hangout after work. The day started like the day prior, full working days. Once 4:00 PM hit, we were in the car with her family chatting about what we've done and what we plan to do. Once at her family's house, we talked more prior to dinner. Here, I met Sarah's mom's cousin, his parents, his wife, their two kids, and the parents. To say I was nervous was an understatement. Dinner was at the country club were we got fried chicken, as it was the Wednesday special. It was delicious. The country club, her family's place, and her family were all wonderful. The night went well and we got an amazing view of the sunset while at dinner. After dinner we said our goodbyes, got dropped off at the hotel, and crashed for another working day.
 
 <div style="text-align:center"><img src="/images/AZ_wednesday_dinner_club.JPEG" /></div>
 
@@ -82,7 +82,7 @@ After Cathedral Rock, we took a short drive to the Chapel of the Holy Cross whic
 
 <div style="text-align:center"><img src="/images/AZ_friday_chapel_of_the_holy_cross.JPEG" /></div>
 
-We then decided to skip stopping for lunch and drove about 30 minutes to the Mescal Trailhead where you can hike to Devil's Bridge. This is where Friday turned from great to terrible to great to terrible. We went the wrong way. Like the complete wrong way. We completed the Mescal Trail, which took maybe 2-3 hours and learned that the official trailhead was across the street. The Mescal Trail was great, don't get me wrong, but we were dying and frustrated at our mistake. After doubling back to go the correct way. We ran into someone who noted that it would be sundown by the time we returned. To us that meant we had to go, and go fast. We took the correct path to Devil's Bridge which made the mistakes quickly worth it. Not only that, but it was also late enough in the day where it wasn't insanely busy or crowded at the top. We made it and the view was stunning. The air, given the elevation felt crisp and clean, much more than anywhere else I've felt.
+We then decided to skip stopping for lunch and drove about 30 minutes to the Mescal Trailhead where you can hike to Devil's Bridge. This is where Friday turned from great to terrible to great to terrible. We went the wrong way. Like the complete wrong way. We completed the Mescal Trail, which took maybe 2-3 hours and learned that the official trailhead was across the street. The Mescal Trail was great, don't get me wrong, but we were dying and frustrated at our mistake. After doubling back to go the correct way, we ran into someone who noted that it would be sundown by the time we returned. To us that meant we had to go, and go fast. We took the correct path to Devil's Bridge which made the mistakes quickly worth it. Not only that, but it was also late enough in the day where it wasn't insanely busy or crowded at the top. We made it and the view was stunning. The air, given the elevation felt crisp and clean, much more than anywhere else I've felt.
 
 <div style="text-align:center"><img src="/images/AZ_friday_devils_bridge.JPEG" /></div>
 
