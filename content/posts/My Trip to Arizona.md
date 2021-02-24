@@ -64,7 +64,7 @@ Wednesday was a big day. Sarah has extended family in the area and we decided to
 
 ---
 
-Working on eastern time hours while being located in a mountain time zone has is both a blessing and a curse. I started work around 6:30 to 7:00 AM (add 2 for EST) but got to end around 3:00 to 4:00 PM. Again, blessing and a curse. Thursday was another full working day. After work, and after hearing the recommendations from her family the night before, we walked to dinner at the shopping complex located just outside of our hotel. We ended up at a place called the Thirsty Lion Gastropub which was great! I ordered fish and chips to make up for the missed Ash Wednesday and topped it off with an Arizona Flight. Another uneventful day due to the long day of work. A big win, however, was securing the rental car we planned on using the next day.
+Working on eastern time hours while being located in a mountain time zone is both a blessing and a curse. I started work around 6:30 to 7:00 AM (add 2 for EST) but got to end around 3:00 to 4:00 PM. Again, blessing and a curse. Thursday was another full working day. After work, and after hearing the recommendations from her family the night before, we walked to dinner at the shopping complex located just outside of our hotel. We ended up at a place called the Thirsty Lion Gastropub which was great! I ordered fish and chips to make up for the missed Ash Wednesday and topped it off with an Arizona Flight. Another uneventful day due to the long day of work. A big win, however, was securing the rental car we planned on using the next day.
 
 <div style="text-align:center"><img src="/images/AZ_thursday_lion_flight.JPEG" /></div>
 
