@@ -22,7 +22,7 @@ aliases:
 **Created:** April 1, 2021
 
 This webpage is my project submission for the Developing Data Products Week 2 Project.
-The source of the data is found [here](https://download.geonames.org/export/dump/) and the data dictionary can be found [here](https://download.geonames.org/export/dump/readme.txt).The listing of US National Park Service National Parks can be found [here](https://www.nps.gov/aboutus/national-park-system.htm). I used the NPS listing to check that all national parks (63 in total) were included in my listing.
+The source of the data is found [here](https://download.geonames.org/export/dump/) and the data dictionary can be found [here](https://download.geonames.org/export/dump/readme.txt). The listing of US National Park Service National Parks can be found [here](https://www.nps.gov/aboutus/national-park-system.htm). I used the NPS listing to check that all national parks (63 in total) were included in my listing.
 
 ### # Data Wrangling
 
@@ -148,4 +148,4 @@ df <- df %>%
 
 After organizing my data, I created an icon using the NPS logo to make my map have a bit more flair. Finally, I plotted my map using leaflet and used the default clustering to visualize where most parks were located (western US). The most interesting one, in my opinion, is the National Park of American Samoa, that's definitely going on my travel list.
 
-<iframe seamless src="/static/leaflet/np_map.html" width="100%" height="500"></iframe>
+<iframe seamless src="/leaflet/np_map.html" width="100%" height="500"></iframe>
