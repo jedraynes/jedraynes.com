@@ -13,7 +13,7 @@ aliases:
 - /posts/Mapping-US-National-Parks-in-R-with-Leaflet
 ---
 
-# Mapping US National Parks
+# Mapping US National Parks in R with Leaflet
 
 ### # Overview and Sources
 
@@ -78,7 +78,7 @@ Then, we clean the loaded data to prepare a dataframe that is structured for our
 
 After doing so, I compiled a list of names in my listing that weren't national parks and removed these items from my dataframe. After doing so, I grouped my dataframe by the names and took the average latitude and longitude to group away parks that were listed more than once.
 
-Finally, I compared the dataframe of 59 parks to the NPS listing of 63 parks and determined which parks were missing. It turns out I was missing four national parks: Gateway Arch National Park, Indiana Dunes National Park, National Park of American Samoa, New River Gorge National Park, and White Sands National Park. I grabbed the latitude and longitude from this [site](https://www.gps-coordinates.net/) and created a dataframe to append to my master list. After appending, I checked my listing and confirmed the 63 parks I had in my dataset matched the NPS listing per their site.
+Finally, I compared the dataframe of 58 parks to the NPS listing of 63 parks and determined which parks were missing. It turns out I was missing five national parks: Gateway Arch National Park, Indiana Dunes National Park, National Park of American Samoa, New River Gorge National Park, and White Sands National Park. I grabbed the latitude and longitude from this [site](https://www.gps-coordinates.net/) and created a dataframe to append to my master list. After appending, I checked my listing and confirmed the 63 parks I had in my dataset matched the NPS listing per their site.
 
 
 ```r
