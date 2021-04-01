@@ -2,7 +2,7 @@
 title: "Developing Data Products Week 2 Project 1 - Mapping US National Parks in R with Leaflet"
 linktitle: "Developing Data Products Week 2 Project 1 - Mapping US National Parks in R with Leaflet"
 author: "Jed Raynes"
-date: 2021-03-31
+date: 2021-04-01
 type:
 - post 
 - posts
@@ -19,7 +19,7 @@ aliases:
 
 ---
 
-**Created:** March 31, 2021
+**Created:** April 1, 2021
 
 This webpage is my project submission for the Developing Data Products Week 2 Project.
 The source of the data is found [here](https://download.geonames.org/export/dump/) and the data dictionary can be found [here](https://download.geonames.org/export/dump/readme.txt).The listing of US National Park Service National Parks can be found [here](https://www.nps.gov/aboutus/national-park-system.htm). I used the NPS listing to check that all national parks (63 in total) were included in my listing.
@@ -28,14 +28,16 @@ The source of the data is found [here](https://download.geonames.org/export/dump
 
 ---
 
-To start, let's load our packages. For this, we'll use leaflet to plot the parks, dplyr to manipulate our data, and data.table to copy data frames for internal version control.
+To start, let's load our packages. For this, we'll use leaflet to plot the parks, dplyr to manipulate our data,  data.table to copy data frames for internal version control, and htmlwidgets and htmltools to save our map for the website.
 
 
 ```r
 # load libraries
 suppressPackageStartupMessages(pacman::p_load(leaflet, 
                                               dplyr, 
-                                              data.table))
+                                              data.table, 
+                                              htmlwidgets, 
+                                              htmltools))
 ```
 
 Next, we'll define the working directory to access our files and load in the data.
@@ -146,5 +148,4 @@ df <- df %>%
 
 After organizing my data, I created an icon using the NPS logo to make my map have a bit more flair. Finally, I plotted my map using leaflet and used the default clustering to visualize where most parks were located (western US). The most interesting one, in my opinion, is the National Park of American Samoa, that's definitely going on my travel list.
 
-<!--html_preserve--><div id="htmlwidget-21603fd398ffd13c7dd1" style="width:672px;height:480px;" class="leaflet html-widget"></div>
-<script type="application/json" data-for="htmlwidget-21603fd398ffd13c7dd1">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"http://openstreetmap.org\">OpenStreetMap<\/a> contributors, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA<\/a>"}]},{"method":"addMarkers","args":[[44.35073,38.72254,43.834,29.29778,25.49049,38.46589,38.57778,37.5839,38.32687,38.36697,32.17539,33.99861,33.79187,42.94109,41.26085,36.49363,63.34111,24.64883,25.37217,67.79681,38.6246071,58.50056,48.68306,36.10697,43.79044,38.9461,37.77654,35.60065,31.92301,20.7204,19.41938,34.51427,41.6635437011719,48.00341,33.87343,58.56256,59.81571,36.88785,67.35336,60.54726,40.49368,37.19758,37.23905,46.87997,-14.2619444,37.8402633666992,48.8332,47.96336,34.98369,36.4904,41.37133,40.34281,32.17871,36.50768,38.49177,46.95359,48.48355,32.7832336425781,43.58009,61.06998,44.42796,37.84835,37.29824],[-68.24411,-109.58635,-102.39395,-103.22985,-80.21025,-107.16661,-107.72426,-112.18271,-109.87826,-111.2615,-104.44384,-119.85838,-80.74867,-122.13282,-81.57116,-117.09091,-150.73414,-82.87177,-80.88182,-153.30978,-90.1849717,-137.00056,-113.80031,-112.113,-110.68176,-114.25797,-105.62886,-83.50877,-104.88554,-156.15515,-155.2885,-93.05085,-87.0356979370117,-88.868855,-115.90099,-154.9788,-150.10857,-118.55515,-159.19889,-153.24879,-121.40735,-86.13089,-108.46241,-121.72691,-170.6880556,-80.9897079467773,-121.34661,-123.92651,-109.78779,-121.18117,-124.03166,-105.68364,-110.6079,-118.5752,-78.4691,-103.45922,-92.8381,-106.33186340332,-103.43948,-142.43421,-110.58846,-119.55696,-113.02644],{"iconUrl":{"data":"https://upload.wikimedia.org/wikipedia/commons/1/1d/US-NationalParkService-Logo.svg","index":0},"iconWidth":28.9782608695652,"iconHeight":31,"iconAnchorX":14.4891304347826,"iconAnchorY":16},null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},["Acadia National Park","Arches National Park","Badlands National Park","Big Bend National Park","Biscayne National Park","Black Canyon National Park","Black Canyon of the Gunnison National Park","Bryce Canyon National Park","Canyonlands National Park","Capitol Reef National Park","Carlsbad Caverns National Park","Channel Islands National Park","Congaree National Park","Crater Lake National Park","Cuyahoga Valley National Park","Death Valley National Park","Denali National Park","Dry Tortugas National Park","Everglades National Park","Gates of the Arctic National Park","Gateway Arch National Park","Glacier Bay National Park and Preserve","Glacier National Park","Grand Canyon National Park","Grand Teton National Park","Great Basin National Park","Great Sand Dunes National Park","Great Smoky Mountains National Park","Guadalupe Mountains National Park","Haleakala National Park","Hawaiâ€˜i Volcanoes National Park","Hot Springs National Park","Indiana Dunes National Park","Isle Royale National Park","Joshua Tree National Park","Katmai National Park","Kenai Fjords National Park","Kings Canyon National Park","Kobuk Valley National Park","Lake Clark National Park","Lassen Volcanic National Park","Mammoth Cave National Park","Mesa Verde National Park","Mount Rainier National Park (MRNP)","National Park of American Samoa","New River Gorge National Park","North Cascades National Park","Olympic National Park","Petrified Forest National Park","Pinnacles National Park","Redwood National Park","Rocky Mountain National Park","Saguaro National Park","Sequoia National Park","Shenandoah National Park","Theodore Roosevelt National Park","Voyageurs National Park","White Sands National Park","Wind Cave National Park","Wrangell-Saint Elias National Park","Yellowstone National Park","Yosemite National Park","Zion National Park"],null,{"showCoverageOnHover":true,"zoomToBoundsOnClick":true,"spiderfyOnMaxZoom":true,"removeOutsideVisibleBounds":true,"spiderLegPolylineOptions":{"weight":1.5,"color":"#222","opacity":0.5},"freezeAtZoom":false},null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]}],"limits":{"lat":[-14.2619444,67.79681],"lng":[-170.6880556,-68.24411]}},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
+<iframe seamless src="/static/leaflet/np_map.html" width="100%" height="500"></iframe>
