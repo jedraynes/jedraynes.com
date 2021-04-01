@@ -123,7 +123,7 @@ df <- df %>%
   summarize(latitude = mean(latitude), 
             longitude = mean(longitude))
   
-# define four missing national parks
+# define five missing national parks
 parks_to_add <- data.frame(name = c('Gateway Arch National Park',  
                                     'Indiana Dunes National Park', 
                                     'National Park of American Samoa', 
