@@ -1,6 +1,6 @@
 ---
-title: "Developing Data Products Week 2 Project 1 - Minimum Wage: 1968 to 2019 Actual vs. Inflation Adjusted"
-linktitle: "Developing Data Products Week 2 Project 1 - Minimum Wage: 1968 to 2019 Actual vs. Inflation Adjusted"
+title: "Developing Data Products Week 3 Project 1 - Minimum Wage: 1968 to 2019 Actual vs. Inflation Adjusted"
+linktitle: "Developing Data Products Week 3 Project 1 - Minimum Wage: 1968 to 2019 Actual vs. Inflation Adjusted"
 author: "Jed Raynes"
 date: 2021-04-01
 type:
