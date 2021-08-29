@@ -22,7 +22,7 @@ Outside of work and service, I'm probably taking a MOOC, binging a Netflix show 
 
 This site is a collection of tangents I deem worthy of posting on the internet. Feel free to [read my posts](https://jedraynes.com/posts/), [contact me](https://jedraynes.com/contact/), or stalk my [GitHub](https://github.com/jedraynes) or [LinkedIn](https://www.linkedin.com/in/jedraynes/).
 
-Below you can find a timeline of major events to see a brief history of my journey.
+Below you can find an interactive resume of my journey thus far. Click on the colored bars for details about the specific activity.
 
 <iframe src="https://public.tableau.com/views/InteractiveResume_16302499560450/InteractiveResume?:showVizHome=no&:embed=true" height="750" width="100%" allowfullscreen="allowfullscreen" frameborder="0" scrolling="0"></iframe>
 
