@@ -24,7 +24,7 @@ This site is a collection of tangents I deem worthy of posting on the internet. 
 
 Below you can find a timeline of major events to see a brief history of my journey.
 
-<iframe src="https://public.tableau.com/app/profile/jedraynes/viz/InteractiveResume_16302499560450/InteractiveResume?:showVizHome=no&:embed=true" height="750" width="100%" allowfullscreen="allowfullscreen" frameborder="0" scrolling="0"></iframe>
+<iframe src="https://public.tableau.com/views/InteractiveResume_16302499560450/InteractiveResume?:showVizHome=no&:embed=true" height="750" width="100%" allowfullscreen="allowfullscreen" frameborder="0" scrolling="0"></iframe>
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQIzyf5Vkq7dGDf45XNdQqKRLFIwMa9WEzCr62O2g2aeuMoxiIP96wUFaiIP285w7j_L53Pq_9QsGs1/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
