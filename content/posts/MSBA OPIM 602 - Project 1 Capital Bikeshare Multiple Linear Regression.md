@@ -15,13 +15,11 @@ aliases:
 
 # Capital Bikeshare Multiple Linear Regression
 
-### # Introduction
-
 ---
 
 **Created:** November 9, 2021
 
-This webpage is my project submission for the Project 1 of OPIM 602 (Machine Learning I) in the MSBA program at the Georgetown University McDonough School of Business. 
+This webpage is for Project 1 of the OPIM 602 course, Machine Learning I, in the [MSBA program at the Georgetown University McDonough School of Business](https://msb.georgetown.edu/msba/). 
 
 ### # Introduction
 

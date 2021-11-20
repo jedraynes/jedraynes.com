@@ -16,11 +16,11 @@ date = 2020-12-31
 ## About
 ---
 
-Welcome! I'm Jed. I'm originally from Brentwood, TN and graduated with my Bachelor of Science in Business Administration, *magna cum laude*, from [Xavier University](https://www.xavier.edu/) (Go Muskies!) in May 2019 majoring in Accounting and Finance and minoring in Information Systems. Since then, I've become a CPA,completed nearly a year in [Audit at KPMG](https://audit.kpmg.us/), and currently work in [Deals (M&A) Transaction Services specializing in Financial Due Diligence at PwC](https://www.pwc.com/us/en/services/deals/acquisitions/due-diligence.html) in Washington, DC. I'm currently attending the Georgetown University McDonough School of Business pursing a Master of Science in Business Analytics.
+Welcome! I'm Jed. I'm originally from Brentwood, TN and graduated with my Bachelor of Science in Business Administration, *magna cum laude*, from [Xavier University](https://www.xavier.edu/) (Go Muskies!) in May 2019 majoring in Accounting and Finance and minoring in Information Systems. Since then, I've become a CPA,completed nearly a year in [Audit at KPMG](https://audit.kpmg.us/), and currently work in [Deals (M&A) Transaction Services specializing in Financial Due Diligence at PwC](https://www.pwc.com/us/en/services/deals/acquisitions/due-diligence.html) in Washington, DC. I'm currently attending the [Georgetown University McDonough School of Business pursing a Master of Science in Business Analytics](https://msb.georgetown.edu/msba/).
 
-Outside of work and service, I'm probably taking a MOOC, binging a Netflix show or Twitch channel, or deep in the rabbit hole of a random Wikipedia article. I'm addicted to playing Words With Friends and more recently got into sports betting (so far so good).
+Outside of work and service, I'm probably taking a MOOC, binging a Netflix show / Twitch channel, or deep in the rabbit hole of a random Wikipedia article. I'm addicted to playing Words With Friends and more recently got into sports betting (so far so good).
 
-This site is a collection of tangents I deem worthy of posting on the internet. Feel free to [read my posts](https://jedraynes.com/posts/), [contact me](https://jedraynes.com/contact/), or stalk my [GitHub](https://github.com/jedraynes) or [LinkedIn](https://www.linkedin.com/in/jedraynes/).
+This site is a collection of tangents I deem worthy of posting on the internet. Feel free to [read my posts](https://jedraynes.com/posts/), [contact me](https://jedraynes.com/contact/), or stalk my [GitHub](https://github.com/jedraynes) and [LinkedIn](https://www.linkedin.com/in/jedraynes/) profiles.
 
 Below you can find a timeline of major events to see a brief history of my journey.
 
