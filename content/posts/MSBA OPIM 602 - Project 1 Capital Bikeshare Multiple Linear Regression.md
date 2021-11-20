@@ -577,6 +577,16 @@ cat("\nPerformances using test dataset:\n")
 metrics(y_pred = y_test_preds, y_true = bs_data_test_1$cnt)
 ```
 
+The performance of the final model on the training set and testing set is displayed in the table below.
+
+|             | Training Set | Testing Set |
+|-------------|--------------|-------------|
+| MSE         | 1.897385     | 1.906189    |
+| RMSE        | 1.377456     | 1.380648    |
+| MAE         | 1.142663     | 1.143901    |
+| Correlation | 0.734301     | 0.735362    |
+| Adj. R^2    | 0.539197     | 0.540758    |
+
 
 ### # Recommendation
 
