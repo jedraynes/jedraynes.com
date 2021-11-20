@@ -6,7 +6,7 @@ title = "Contact"
 
 ---
 
-Contact me via [LinkedIn](https://www.linkedin.com/in/jedraynes/) or send me a message using the form below.
+Send me a message on [LinkedIn](https://www.linkedin.com/in/jedraynes/) or send me a using the form below.
 
 
 
