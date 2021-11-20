@@ -229,7 +229,7 @@ bptest(model_0)
 vif(model_0)
 ```
 
-In addition to testing the regression assumptions, I inspected the model for influential data points. Given provided data is assumed to be correct, I opted not to remove any influential observations. Refer to Appendix #1 for the initial model’s diagnostic plots.
+In addition to testing the regression assumptions, I inspected the model for influential data points. Given provided data is assumed to be correct, I opted not to remove any influential observations. 
 
 ### # Final Model
 
@@ -360,7 +360,7 @@ As reported, the bike rentals had a skewness factor of 1.28 showing the dependen
 
 #### *Feature Engineering – “Hr” Predictor*
 
-I then visualized the bike rental demand by hour of the day (refer to Appendix #2). Based on the visual, there is an uptick in demand in certain hours (mainly commute times) and lower demand in other hours (such as early morning / late night). To better simplify the data, I binned the “hr” predictor into the three distinct bins of nearly equal rental demand: working hours, other hours, and commuting hours. The plot below displays the rental demand by hour bin along with a label noting which bin covers which hours.
+I then visualized the bike rental demand by hour of the day. Based on the visual, there is an uptick in demand in certain hours (mainly commute times) and lower demand in other hours (such as early morning / late night). To better simplify the data, I binned the “hr” predictor into the three distinct bins of nearly equal rental demand: working hours, other hours, and commuting hours. The plot below displays the rental demand by hour bin along with a label noting which bin covers which hours.
 
 ```r
 # explore the distribution of our data: hr
@@ -472,7 +472,7 @@ $$
 \operatorname{cnt} = \alpha + \beta_{1}(\operatorname{temp}) + \beta_{2}(\operatorname{hum}) + \beta_{3}(\operatorname{hr\_category\_other\_hours}) + \epsilon
 $$
 
-The model has an adjusted R2 of 0.541, which means that 54.1% of the variation in aggregate demand is driven by the three variables in my final model. Additionally, the RMSE of the model is 1.381, which is very low relative to the bike rental amounts each day. Given the cube root transformation of the dependent variable, the inverse should be calculated (i.e., raised to the third power) to reverse the effects of the transformation when interpreting predictions. Refer to Appendix #3 for the summary results of the final model and Appendix #5 for the model metrics.
+The model has an adjusted R2 of 0.541, which means that 54.1% of the variation in aggregate demand is driven by the three variables in my final model. Additionally, the RMSE of the model is 1.381, which is very low relative to the bike rental amounts each day. Given the cube root transformation of the dependent variable, the inverse should be calculated (i.e., raised to the third power) to reverse the effects of the transformation when interpreting predictions.
 
 #### *Linear Regression Assumptions – Final Model*
 
@@ -507,10 +507,10 @@ lapply(c(1, 2, 4, 5),
   invisible()
 ```
 
-1.	Linearity: In Appendix #4 (top-right), the standard residuals closely follow the Q-Q plot and this show that there is a linear relationship.
-2.	Normality: In Appendix #4 (top-left), the residuals and fitted values appear to be randomly scattered around the zero reference line in red initially suggesting normality. However, the results of the Anderson-Darling test for normality of the residuals returns a p-value of near-zero, which indicates the normality assumption is not satisfied.
-3.	Heteroscedasticity: In Appendix #4 (top-left), there does not appear to be a bell-shaped effect of the residuals initially suggesting homoscedasticity and constant error variance. However, the results of the Breusch-Pagan test for constant error variance returns a p-value of near-zero, which indicates that the error terms have non-constant variance and are heteroscedastic.
-4.	Independent Errors / Multicollinearity: In Appendix #6, I calculated the variance inflation factor (VIF) of my final model to inspect of independent predictor multicollinearity. Given the VIF values are low, near the 1.0 to 1.2 range, the error terms appear to be independent and there is no multicollinearity.
+1.	Linearity: The standard residuals closely follow the Q-Q plot and this show that there is a linear relationship.
+2.	Normality: The residuals and fitted values appear to be randomly scattered around the zero reference line in red initially suggesting normality. However, the results of the Anderson-Darling test for normality of the residuals returns a p-value of near-zero, which indicates the normality assumption is not satisfied.
+3.	Heteroscedasticity: There does not appear to be a bell-shaped effect of the residuals initially suggesting homoscedasticity and constant error variance. However, the results of the Breusch-Pagan test for constant error variance returns a p-value of near-zero, which indicates that the error terms have non-constant variance and are heteroscedastic.
+4.	Independent Errors / Multicollinearity: I calculated the variance inflation factor (VIF) of my final model to inspect of independent predictor multicollinearity. Given the VIF values are low, near the 1.0 to 1.2 range, the error terms appear to be independent and there is no multicollinearity.
 
 #### *Predictions on Test Data*
 
