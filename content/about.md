@@ -18,14 +18,14 @@ date = 2023-01-13
 
 Welcome! I'm Jed. I'm originally from TN but currently live in the Washington, DC area. Here's my journey:
 
-Work
+{{ emojify ":office:" }} Work
 - Jan'21 to Present: Deals/M&A Analytics Senior Associate, PwC
 - Jul'21 to Dec'21: Deals/M&A FDD Senior Associate, PwC
 - Jul'20 to Jun'21: Deals/M&A FDD Associate, PwC
 - Aug'19 to Jun'20: Audit Associate, KPMG
 
 
-School
+{{ emojify ":mortar_board:" }} School
 - Dec'22: Master of Science in Business Analytics, Georgetown University
 - May'19: Bachelor of Science in Business Administration Majoring in Accounting and Finance and Minoring in Information Systems, Xavier University
 
